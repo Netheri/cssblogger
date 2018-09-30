@@ -1,0 +1,54 @@
+*{
+    font-family: Roboto;
+    padding:0 auto;
+    margin: 0 auto;
+}
+
+body{
+    background-color: white;
+}
+
+header {
+    box-shadow: 0 0 10px rgba(0,0,0,0.4);
+}
+.container {
+    margin: 0 auto;
+    padding: 0 auto;
+    width: 1300px;
+    max-width: 100%;
+}
+
+.menubar ul li{
+    padding: 5px;
+    display: inline-block;
+    list-style: none;
+}
+
+.menubar a{
+    color: #0EC4BB;
+    text-decoration: none;
+}
+
+.logo{
+    padding-left: 40px;
+    padding-top: 5px;
+    padding-bottom: 7px;
+}
+
+.navbar-cotainer{
+    background-color: #0EC4BB;
+}
+
+.navbar-cotainer ul li{
+    list-style: none;
+    display: inline-block;
+    padding-bottom: 13px;
+    padding-top: 13px;
+}
+
+.navbar-cotainer a{
+    text-decoration:none;
+    color: white;
+    font-weight: bold;
+    padding: 8px;
+}
